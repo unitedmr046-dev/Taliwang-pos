@@ -17,8 +17,8 @@
     "expo-image-picker": "~15.0.7",
     "expo-print": "~13.0.1",
     "expo-sharing": "~12.0.1",
-    "react-native-bluetooth-classic": "^1.73.0",
-    "react-native-thermal-receipt-printer-image-qr": "^1.0.6"
+    "react-native-bluetooth-classic": "1.73.0-rc.17",
+    "react-native-thermal-receipt-printer-image-qr": "0.1.12"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0"
